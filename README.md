@@ -13,9 +13,9 @@ You are to follow the below steps to practice using GIT. This will help prepare 
 
 3. Update README.md with the missing information for the following sections: (Just because you didn't need any outside resources, or have any problems with this does not mean you should leave the section blank. Put the word 'None' if there were/are none. Otherwise I won't know whether you filled out the README completely or forgot to do some of it.)
 
-  1. Author
-  2. Outside Resources Used
-  3. Known Problems, Issues, And/Or Errors in the Program
+    1. Author
+    2. Outside Resources Used
+    3. Known Problems, Issues, And/Or Errors in the Program
 
 4. Add/Stage the changes you made.
 
