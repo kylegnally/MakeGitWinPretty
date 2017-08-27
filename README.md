@@ -1,5 +1,5 @@
 # Assignment 0 - Introduction to Git
-## Due: 9-12-2017
+## Due: 9-13-2017
 
 ## Author
 
@@ -7,7 +7,7 @@
 
 You are to follow the below steps to practice using GIT. This will help prepare you for submitting all of your assignments for this class.
 
-1. Fork this project so that you have your own version.
+1. Use the link in the assignment repository to get your own version of the assignment
 
 2. Update .minttyrc with some sort of color changes. .minttyrc is a hidden file, so you may need to turn on hidden files for explorer, or use the -a flag from the terminal to see the file. I do not care what you change the colors to. Just change them so they are different.
 
@@ -23,7 +23,7 @@ You are to follow the below steps to practice using GIT. This will help prepare 
 
 6. Push the changes you made up to GitHub.
 
-7. Make a pull request using GitHub's web interface.
+7. Your submission will be the last pushed commit before the deadline.
 
 #Notes
 If you need some help on how to write proper Markdown for the README file, you can refer to this cheat sheet:
